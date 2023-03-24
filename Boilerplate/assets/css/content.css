@@ -1,0 +1,49 @@
+
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 960px;
+    border: 3px solid green;
+    background-color: chartreuse;
+}
+    
+h2 {
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#action {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(250, 1, 1);
+    background-color: aqua;
+    color: white;
+}
+
+#numOne {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(1, 38, 250);
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
+#numTwo {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(1, 38, 250);
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
+#submit {
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    border: 3px solid rgb(1, 38, 250);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
